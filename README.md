@@ -26,20 +26,17 @@ The goal was to evaluate model performance and forecast key **health and demogra
 
 1. Overview
 Shows total indicators analyzed, model reliability distribution, and R² quality definitions.  
-![Overview](assets/Overview.png)
 
  2. Trend Analysis
 Interactive trend exploration with 2025 forecasts and 95% confidence intervals.  
-![Trend Analysis](assets/Trend_Analysis.png)
 
 3. Dataset Analysis
 Displays R² vs RMSE model performance, dataset distribution, and average prediction errors.  
-![Dataset Analysis](assets/Dataset_Analysis.png)
+
 
 4. Data Quality Report
 Summarizes completeness, reliability, and survey quality indicators.  
-![Data Quality Report](assets/Data_Quality_Report.png)
----
+
  🌍 Impact
 This dashboard helps identify reliable predictive models for public health planning and emphasizes **ethical, bias-aware analytics** for data-driven policy decisions in South Africa.
 
